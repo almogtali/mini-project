@@ -1,0 +1,9 @@
+glob
+google
+matplotlib
+numpy
+openai
+os
+pandas
+scipy
+seaborn
